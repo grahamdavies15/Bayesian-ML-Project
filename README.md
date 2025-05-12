@@ -51,6 +51,7 @@ Example of the HMC samples.
 
 - Python 3.9+
 - Libraries: `numpy`, `scipy`, `matplotlib`, `pandas`
+- HMC_Lab file (not provided)
 
 ## References
 
