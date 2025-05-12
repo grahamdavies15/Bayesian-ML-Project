@@ -21,11 +21,7 @@ The models are applied to the [UCI Energy Efficiency Dataset](https://archive.ic
    - HMC is first verified on a standard 2D Gaussian
    - Applied to both regression and classification tasks using energy and gradient-based sampling
 
-3. **Variational Inference**
-   - Factorised variational approximation with Gamma priors on hyperparameters
-   - Optimises the variational lower bound for efficient convergence
-
-4. **Baseline Linear Model**
+3. **Baseline Linear Model**
    - Standard least-squares regression for performance comparison
 
 ## Results Summary
