@@ -34,7 +34,11 @@ The models are applied to the [UCI Energy Efficiency Dataset](https://archive.ic
 | HMC Classifier (Binary Target)  | 0.0078 (Misclassification Rate) |
 
 ![image](https://github.com/grahamdavies15/Bayesian-ML-Project/blob/main/images/2_contour.png)
+Contour plot demonstrating the optimal α and β found.
+
+
 ![image](https://github.com/grahamdavies15/Bayesian-ML-Project/blob/main/images/3_act_100.png)
+Example of the HMC samples.
 
 ## Key Takeaways
 
