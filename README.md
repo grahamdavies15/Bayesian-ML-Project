@@ -1,11 +1,10 @@
-# Bayesian Linear Models with HMC and Variational Inference
+# Bayesian Linear Models with HMC
 
 This project explores and compares four predictive modelling techniques within the context of Bayesian machine learning:
 
 - **Least Squares Linear Regression**
 - **Bayesian Linear Regression (Type-II Maximum Likelihood)**
 - **Bayesian Linear Regression using Hamiltonian Monte Carlo (HMC)**
-- **Variational Inference (VI)**
 - **Bayesian Logistic Regression using HMC (Classification Task)**
 
 ## Dataset
@@ -42,7 +41,6 @@ The models are applied to the [UCI Energy Efficiency Dataset](https://archive.ic
 ## Key Takeaways
 
 - All methods achieve similar predictive accuracy.
-- **Variational Inference** offers the best speed-performance trade-off.
 - **HMC-based classification** performs extremely well due to the nature of the binary split and the strength of predictive features.
 
 ## Requirements
