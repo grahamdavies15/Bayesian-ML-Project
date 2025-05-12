@@ -37,8 +37,8 @@ The models are applied to the [UCI Energy Efficiency Dataset](https://archive.ic
 Contour plot demonstrating the optimal α and β found.
 
 
-![image](https://github.com/grahamdavies15/Bayesian-ML-Project/blob/main/images/3_act_100.png)
-Example of the HMC samples.
+![Example of the HMC samples.](https://github.com/grahamdavies15/Bayesian-ML-Project/blob/main/images/3_act_100.png)
+
 
 ## Key Takeaways
 
