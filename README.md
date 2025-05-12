@@ -35,7 +35,6 @@ The models are applied to the [UCI Energy Efficiency Dataset](https://archive.ic
 | Least Squares                   | 2.0922     | 2.8539      |
 | Bayesian Linear (Type-II)       | 2.0628     | 2.8573      |
 | Bayesian Linear (HMC)           | 2.0683     | 2.8433      |
-| Variational Inference           | 2.0668     | 2.8434      |
 | HMC Classifier (Binary Target)  | 0.0078 (Misclassification Rate) |
 
 ## Key Takeaways
