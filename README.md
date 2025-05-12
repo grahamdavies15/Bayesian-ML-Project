@@ -54,5 +54,5 @@ Example of the HMC samples.
 
 ## References
 
-- Coursework and lecture material by M. Tipping, University of Bath (2024)
+- Coursework and lecture material by Prof. M. Tipping
 - UCI Machine Learning Repository
