@@ -33,8 +33,8 @@ The models are applied to the [UCI Energy Efficiency Dataset](https://archive.ic
 | Bayesian Linear (HMC)           | 2.0683     | 2.8433      |
 | HMC Classifier (Binary Target)  | 0.0078 (Misclassification Rate) |
 
-![Contour Paths finding maximum]([https://example.com/path/to/image.png](https://github.com/grahamdavies15/Bayesian-ML-Project/blob/main/images/2_contour.png))
-![Illustration of HMC samples]((https://github.com/grahamdavies15/Bayesian-ML-Project/blob/main/images/3_act_100.png))
+![image]([https://example.com/path/to/image.png](https://github.com/grahamdavies15/Bayesian-ML-Project/blob/main/images/2_contour.png))
+![image]((https://github.com/grahamdavies15/Bayesian-ML-Project/blob/main/images/3_act_100.png))
 
 ## Key Takeaways
 
